@@ -23,6 +23,7 @@ export default {
       return {
         chart: {
           type: 'column',
+          backgroundColor: 'transparent',
         },
         title: {
           text: null
